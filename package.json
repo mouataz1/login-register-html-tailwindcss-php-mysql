@@ -1,0 +1,15 @@
+{
+    "name": "DAY5_login_register_html_tailwindcss_php_mysql",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build:css": "tailwind build src/style.css -o dist/style.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tailwindcss": "^2.1.4"
+    }
+}
