@@ -42,8 +42,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `fname`, `lname`, `email`, `password`) VALUES
-(1, 'mouataz', 'hakkou', 'moataz.hakkou@gmail.com', '123456789'),
-(2, 'mtz', 'hk', 'hakkou78@hmail.com', '$2y$04$oYNSBQ02Hfd3wlnX8EYpmuR1aQAcyBTya0oH63wuh5l97j8v70h8G'),
+(1, 'mouataz', 'user', 'test@gmail.com', '123456789'),
+(2, 'mtz', 'hk', 'test2@hmail.com', '$2y$04$oYNSBQ02Hfd3wlnX8EYpmuR1aQAcyBTya0oH63wuh5l97j8v70h8G'),
 (3, 'rqergqrqreg', 'gsgsggs', 'gsdsggs@ddh.com', '$2y$04$6DvUO3xt2wM9rHOODlZtuuWTiYE3bnRk9oHM6qb.OflJ3wkn1TFse'),
 (4, 'rthgq', 'sth', 'rtgh@ggff.com', '$2y$04$BQpnIvNkn/Rc5RHwr9yo..faYrBMywZayVC/D58I2fT298QwyDtMe'),
 (5, 'admin', 'root', 'admin@admin.com', '$2y$04$d9MeI1GMX.InOZZbNTydf.RMAUE6uFeM.fbHRpYRRV2aK7kfVgVIy');
